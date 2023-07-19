@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/rsps/rsps.iml" filepath="$PROJECT_DIR$/rsps/rsps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rsps.iml" filepath="$PROJECT_DIR$/rsps.iml" />
     </modules>
   </component>
 </project>
